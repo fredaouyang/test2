@@ -1,0 +1,17 @@
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "资产",
+      "iconPath": "common/images/tabBar/asset1.png",
+      "selectedIconPath": "common/images/tabBar/asset1.png"
+    }, 
+    {
+      "pagePath": "pages/index/index",
+      "text": "记账"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "我的"
+    }],
+    "backgroundColor":"#fff"
+  }
